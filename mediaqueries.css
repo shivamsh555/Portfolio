@@ -10,6 +10,11 @@
     #projects {
       height: fit-content;
     }
+    .about-pic {
+        border-radius: 2rem;
+        height: auto;
+        width: auto;
+      }
   }
   
   @media screen and (max-width: 1200px) {
@@ -45,6 +50,11 @@
     .about-containers {
       margin-top: 0;
     }
+    .about-pic {
+        border-radius: 2rem;
+        height: auto;
+        width: auto;
+      }
   }
   
   @media screen and (max-width: 600px) {
@@ -100,4 +110,9 @@
     .text-container {
       text-align: justify;
     }
+    .about-pic {
+        border-radius: 2rem;
+        height: auto;
+        width: auto;
+      }
   }
